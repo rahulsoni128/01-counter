@@ -4,7 +4,7 @@ import Card from './componts/Card'
 function App() {
   return (
     <>
-      <h1>Utsav Vachhani</h1>
+      <h1>React From the other</h1>
       <Card />
     </>
   );
